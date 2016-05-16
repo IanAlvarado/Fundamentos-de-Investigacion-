@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.13)  15 MAY 2016 16:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.13)  13 MAY 2016 18:42
 entering extended mode
-**"./Realidad virtual.tex"
-("Realidad virtual.tex"
+**./bmc_article.tex
+(bmc_article.tex
 LaTeX2e <2015/10/01> patch level 2
 Babel <3.9n> and hyphenation patterns for 69 languages loaded.
 (bmcart.cls
@@ -310,20 +310,8 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.54 u
-      sepackage{biblatex}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-("Realidad virtual.aux")
-\openout1 = `"Realidad virtual.aux"'.
+(bmc_article.aux)
+\openout1 = `bmc_article.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
 LaTeX Font Info:    ... okay on input line 86.
@@ -372,12 +360,9 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 218.
 
-Overfull \vbox (301.42609pt too high) has occurred while \output is active []
-
-
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <8> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 239.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 228.
 
 
 
@@ -388,50 +373,35 @@ Overfull \hbox (1.0pt too wide) has occurred while \output is active
 [1{C:/Users/IAN/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ] [2]
-[3]
+(bmc_article.bbl
 
-! Package inputenc Error: Unicode char ° (U+B0)
-(inputenc)                not set up for use with LaTeX.
+LaTeX Warning: Empty `thebibliography' environment on input line 45.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.265 ...la creciente cantidad de vídeos en 360°
-                                                   que se están publicando ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[4]
-No file "Realidad virtual".bbl.
-
+) 
 AED: lastpage setting LastPage
-[5] ("Realidad virtual.aux")
+[3] (bmc_article.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 2217 strings out of 493634
- 27441 string characters out of 3141320
- 95784 words of memory out of 3000000
- 5627 multiletter control sequences out of 15000+200000
- 6748 words of font info for 24 fonts, out of 3000000 for 9000
+ 2258 strings out of 493634
+ 27754 string characters out of 3141320
+ 92766 words of memory out of 3000000
+ 5666 multiletter control sequences out of 15000+200000
+ 7042 words of font info for 25 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 30i,9n,37p,2925b,237s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,9n,37p,1106b,239s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Prog
 ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "Realidad virtual.pdf" (5 pages, 102575 bytes).
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on bmc_article.pdf (3 pages, 81756 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
+ 36 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
